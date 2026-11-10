@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1769743875747,
+      "tag": "0000_add_document_object_path",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1779804360163,
+      "tag": "0001_add_quality_flags",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1779805748532,
+      "tag": "0002_lush_thaddeus_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1748269062000,
+      "tag": "0002_trust_layer",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1779805424272,
+      "tag": "0003_organic_drax",
+      "breakpoints": true
+    }
+    ,{
+      "idx": 2,
+      "version": "7",
+      "when": 1748303400000,
+      "tag": "0002_account_settings",
+      "breakpoints": true
+    }
+  ]
+}
